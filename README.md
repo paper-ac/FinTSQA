@@ -1,1 +1,1 @@
-FinTS-TQA
+FinTSQA dataset
